@@ -1,0 +1,1 @@
+# template layout for cross compatible email services 
